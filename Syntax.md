@@ -314,7 +314,7 @@ tampilkan(100)
 Variabel:
 
 ```bst
-nama = "Vadel"
+nama = "Budhi"
 
 tampilkan(nama)
 ```
@@ -443,7 +443,7 @@ fungsi sapa(nama)
 Pemanggilan:
 
 ```bst
-sapa("Vadel")
+sapa("Budhi")
 ```
 
 Beberapa parameter:
